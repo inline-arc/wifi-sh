@@ -6,4 +6,5 @@ bash script to get your wifi into a qrcode
 2) sxiv - image viwer
 
 # notice
+you cana connect your phone when you scan it with wifiscanner or anyother device which scans it...
 for now its oky, but there will be more added in future maybe new version or better this shit, you can also change the image viewwe whatever you link in the it , or just open the image the image name is always wifi.png , but you have re remobe the rm , just edit the script if you know !
